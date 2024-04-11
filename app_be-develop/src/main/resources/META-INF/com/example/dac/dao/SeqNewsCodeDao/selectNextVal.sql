@@ -1,0 +1,1 @@
+select nextval('SEQ_NEWS_CODE')
